@@ -1,10 +1,8 @@
 # 50 Projects In 50 Days - HTML, CSS & JavaScript
 
-These projects is from a online course called "50 Projects In 50 Days - HTML, CSS & JavaScript" in udemy.
-
-This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model).
-
-Here is a list of what I create in this course:
+These projects is from a online course called "50 Projects In 50 Days - HTML, CSS & JavaScript" in udemy.<br>
+This course includes 50 mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model).<br>
+Here is a list of what I create in this course:<br>
 
 | #   | Project        | Demo |
 | --- | -------        | ---- |
